@@ -1,0 +1,146 @@
+[
+	{
+		"name":"LW CommunityVersion",
+		"description":"Adds a bunch of gates thats a must have for complex circuitry.",
+		"link":"https://github.com/IsCoffeeTho/LW-CommunityVersion",
+		"author": {
+			"name":"IsCoffeeTho",
+			"link":"https://github.com/IsCoffeeTho"
+		}
+	},
+	{
+		"name":"Ecconias Logic World Mods",
+		"description":"A list of mods made by the Amazing Ecconia.",
+		"link":"https://github.com/Ecconia/Ecconia-LogicWorld-Mods",
+		"author": {
+			"name":"Ecconia",
+			"link":"https://github.com/Ecconia"
+		}
+	},
+	{
+		"name":"gnog-loadaccelerator",
+		"description":"Meant to speed up the loading times of certain saves.",
+		"link":"https://github.com/LogicWorld-Mod-Repository/gnog-loadaccelerator",
+		"author": {
+			"name":"gnog#2259",
+			"link":"https://discord.com/users/487609645549223941"
+		}
+	},
+	{
+		"name":"UltraSaveFixer",
+		"description":"Limits save time on server save files to reduce lag.",
+		"link":"https://github.com/GHXX/LogicWorld-UltraSaveFixerItsOver300",
+		"author": {
+			"name":"GHXX",
+			"link":"https://github.com/GHXX"
+		}
+	},
+	{
+		"name":"WireBundle",
+		"description":"Allows bundling multiple inputs into one.",
+		"link":"https://github.com/FlamptX/WireBundle",
+		"author": {
+			"name":"FlamptX",
+			"link":"https://github.com/FlamptX"
+		}
+	},
+	{
+		"name":"Wireless",
+		"description":"Simple mod to allow wrireless signals.",
+		"link":"https://github.com/LonnonDev/Wireless",
+		"author": {
+			"name":"LonnonDev",
+			"link":"https://github.com/LonnonDev"
+		}
+	},
+	{
+		"name":"CheeseUtilMod",
+		"description":"Adds a bunch of utilities.",
+		"link":"https://github.com/cheese3660/CheeseUtilMod",
+		"author": {
+			"name":"cheese3660",
+			"link":"https://github.com/cheese3660"
+		}
+	},
+	{
+		"name":"WhyNots-LW-mod-collection",
+		"description":"Adds a simple gates.",
+		"link":"https://github.com/BigBrainTime/WhyNots-LW-mod-collection",
+		"author": {
+			"name":"BigBrainTime",
+			"link":"https://github.com/BigBrainTime"
+		}
+	},
+	{
+		"name":"CableSnake",
+		"description":"Allows for cable management and bus interfaces.",
+		"link":"https://github.com/lashtear/CableSnake",
+		"author": {
+			"name":"lashtear",
+			"link":"https://github.com/lashtear"
+		}
+	},
+	{
+		"name":"Hexa's Memory",
+		"description":"Adds memory gates for your storage needs",
+		"link":"https://github.com/ShadowAA55/HMM",
+		"author": {
+			"name":"ShadowAA55",
+			"link":"https://github.com/ShadowAA55"
+		}
+	},
+	{
+		"name":"Gates Galore",
+		"description":"Adds all the gate you would ever want.",
+		"link":"https://github.com/mtalyat/Gates-Galore",
+		"author": {
+			"name":"mtalyat",
+			"link":"https://github.com/mtalyat"
+		}
+	},
+	{
+		"name":"LogicWorld-TcpBridge",
+		"description":"Adds a logic component that provides tcp access.",
+		"link":"https://github.com/GHXX/LogicWorld-TcpBridge",
+		"author": {
+			"name":"GHXX",
+			"link":"https://github.com/GHXX"
+		}
+	},
+	{
+		"name":"Zinger Mod",
+		"description":"It's like the Singer, but zingin'.",
+		"link":"https://github.com/kyle-marshall/zinger-mod",
+		"author": {
+			"name":"kyle-marshall",
+			"link":"https://github.com/kyle-marshall"
+		}
+	},
+	{
+		"name":"File Emitter",
+		"description":"Allows for reading of files.",
+		"link":"https://github.com/kyle-marshall/file-emitter",
+		"author": {
+			"name":"kyle-marshall",
+			"link":"https://github.com/kyle-marshall"
+		}
+	},
+	{
+		"name":"yes-or-nand",
+		"description":"Adds OR and NAND gates.",
+		"link":"https://github.com/kyle-marshall/yes-or-nand",
+		"author": {
+			"name":"kyle-marshall",
+			"link":"https://github.com/kyle-marshall"
+		}
+	},
+	{
+		"name":"Locomotion",
+		"description":"Adds movement to LogicWorld",
+		"link":"https://github.com/KyleRokuKyu/Locomotion",
+		"author": {
+			"name":"KyleRokuKyu",
+			"link":"https://github.com/KyleRokuKyu"
+		}
+	}
+]

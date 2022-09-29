@@ -1,0 +1,19 @@
+{
+  "name": "lw-modding-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "updateREADME.js",
+  "scripts": {
+    "start": "node updateREADME.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LogicWorld-Mod-Repository/.github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LogicWorld-Mod-Repository/.github/issues"
+  },
+  "homepage": "https://github.com/LogicWorld-Mod-Repository/.github#readme"
+}
