@@ -1,0 +1,9 @@
+{
+	"name":"Test Mod",
+	"description":"",
+	"version": "v1.0.0",
+	"dependancies": [
+		"othermod@1.0.1"
+	],
+	"modType": "informational"
+}

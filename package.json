@@ -4,7 +4,8 @@
   "description": "",
   "main": "updateREADME.js",
   "scripts": {
-    "start": "node updateREADME.js"
+    "start": "node updateREADME.js",
+	"pull" : "node updateDICT.js"
   },
   "repository": {
     "type": "git",
