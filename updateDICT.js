@@ -1,6 +1,10 @@
 const fs = require("fs");
-const pages = require("./repo-list.json");
+var pages = require("./repo-list.json");
 const https = require("https");
+
+pages = [
+	"https://github.com/LogicWorld-Mod-Repository/.github"
+];
 
 for (var page in pages)
 {
@@ -11,11 +15,17 @@ for (var page in pages)
 		var repo = page.match(/[^/]+/g)[3];
 
 		const req = https.request(`https://raw.githubusercontent.com/${user}/${repo}/master/mod-info.json`, res => {
-			console.log(`statusCode: ${res.statusCode}`);
-		
-			res.on('data', d => {
-				process.stdout.write(d);
-			});
+			if {res.statusCode == 200)
+			{
+				var dat = "";
+				
+				res.on('data', d => {
+					dat += d;
+				});
+				res.on('end', () => {
+					console.log(dat);
+				})
+			}
 		});
 		
 		req.on('error', error => {

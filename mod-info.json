@@ -1,9 +1,10 @@
 {
-	"name":"Test Mod",
-	"description":"",
+	"name":"Example Mod",
+	"description":"Allows the standardization of mod information",
 	"version": "v1.0.0",
-	"dependancies": [
-		"othermod@1.0.1"
-	],
-	"modType": "informational"
+	"type": "util",
+	"tags": [
+		"info",
+		"guide"
+	]
 }
