@@ -28,7 +28,7 @@
 	},
 	{
 		"name":"UltraSaveFixer",
-		"description":"Limits save time on server save files to reduce lag.",
+		"description":"Increases save time for larger circuits.",
 		"link":"https://github.com/GHXX/LogicWorld-UltraSaveFixerItsOver300",
 		"author": {
 			"name":"GHXX",
