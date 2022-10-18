@@ -28,7 +28,7 @@
 	},
 	{
 		"name":"UltraSaveFixer",
-		"description":"Increases save time for larger circuits.",
+		"description":"Increases the maximum allowed save time to avoid issues.",
 		"link":"https://github.com/GHXX/LogicWorld-UltraSaveFixerItsOver300",
 		"author": {
 			"name":"GHXX",
