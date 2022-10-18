@@ -17,7 +17,7 @@ OR
 * [`Locomotion`](https://github.com/KyleRokuKyu/Locomotion) by [`KyleRokuKyu`](https://github.com/KyleRokuKyu) &mdash; Adds movement to LogicWorld 
 * [`LogicWorld-TcpBridge`](https://github.com/GHXX/LogicWorld-TcpBridge) by [`GHXX`](https://github.com/GHXX) &mdash; Adds a logic component that provides tcp access. 
 * [`LW CommunityVersion`](https://github.com/IsCoffeeTho/LW-CommunityVersion) by [`IsCoffeeTho`](https://github.com/IsCoffeeTho) &mdash; Adds a bunch of gates thats a must have for complex circuitry. 
-* [`UltraSaveFixer`](https://github.com/GHXX/LogicWorld-UltraSaveFixerItsOver300) by [`GHXX`](https://github.com/GHXX) &mdash; Increases save time for larger circuits.
+* [`UltraSaveFixer`](https://github.com/GHXX/LogicWorld-UltraSaveFixerItsOver300) by [`GHXX`](https://github.com/GHXX) &mdash; Increases the maximum allowed save time to avoid issues.
 * [`WhyNots-LW-mod-collection`](https://github.com/BigBrainTime/WhyNots-LW-mod-collection) by [`BigBrainTime`](https://github.com/BigBrainTime) &mdash; Adds a simple gates. 
 * [`WireBundle`](https://github.com/FlamptX/WireBundle) by [`FlamptX`](https://github.com/FlamptX) &mdash; Allows bundling multiple inputs into one. 
 * [`Wireless`](https://github.com/LonnonDev/Wireless) by [`LonnonDev`](https://github.com/LonnonDev) &mdash; Simple mod to allow wrireless signals. 
