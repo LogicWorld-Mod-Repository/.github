@@ -142,5 +142,14 @@
 			"name":"KyleRokuKyu",
 			"link":"https://github.com/KyleRokuKyu"
 		}
+	},
+	{
+		"name":"Ram",
+		"description":"Adds two types of ram blocks. One that you can read and write at the same time, and one that's just normal ram.",
+		"link":"https://github.com/SquareDonut1/Logic-World",
+		"author": {
+			"name":"SquareDonut1",
+			"link":"https://github.com/SquareDonut1/"
+		}
 	}
 ]
